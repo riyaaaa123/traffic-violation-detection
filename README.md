@@ -1,4 +1,4 @@
-# Inter IIT Tech Meet 12.0 Engineering Conclave 
+
 
 ## Problem Statement
 
@@ -13,8 +13,8 @@
 
 
 ### [Riya Jindal](https://github.com/riyaaaa123)
-### [Ishika Arya](https://github.com/I-shika)
-### [Rishika Pilania](https://github.com/rishu-3619)
+### [Yukta Agrawal](https://github.com/yukta8)
+### [Deepak Bhagat](https://github.com/deepakbhagatiitr)
 ### [Pranav Arya](https://github.com/pranav-iitr)
 <br/>
 
